@@ -1,0 +1,19 @@
+{
+  "name": "qa1023a---ci",
+  "version": "1.0.0",
+  "description": "Projeto para integração continua usando JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "CI",
+    "CD",
+    "JEST"
+  ],
+  "author": "Julia Veras Peixoto",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
